@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
-import 'package:todo/core/bloc_observer.dart';
-import 'package:todo/core/router/routes.dart';
-import 'package:todo/core/theme/dark_theme.dart';
-import 'package:todo/core/theme/light_theme.dart';
+import 'package:starter/core/bloc_observer.dart';
+import 'package:starter/core/router/routes.dart';
+import 'package:starter/core/theme/dark_theme.dart';
+import 'package:starter/core/theme/light_theme.dart';
 
 final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
     FlutterLocalNotificationsPlugin();

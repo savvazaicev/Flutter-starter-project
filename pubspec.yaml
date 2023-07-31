@@ -1,5 +1,5 @@
-name: todo
-description: Todo list
+name: starter
+description: starter
 
 publish_to: 'none'
 
@@ -38,6 +38,7 @@ dependencies:
 
   # Other
   equatable: ^2.0.5
+  rename: ^2.1.1
 
 dev_dependencies:
   flutter_test:

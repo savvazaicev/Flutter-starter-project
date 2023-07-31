@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:go_router/go_router.dart';
-import 'package:todo/core/extensions_on_build_context.dart';
+import 'package:starter/core/extensions_on_build_context.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

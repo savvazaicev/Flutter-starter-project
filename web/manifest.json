@@ -1,11 +1,11 @@
 {
-    "name": "todo",
-    "short_name": "todo",
+    "name": "starter",
+    "short_name": "starter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Todo list",
+    "description": "Starter",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
