@@ -1,6 +1,6 @@
 ## About
 
-Initial project with commonly used libraries.
+Initial Flutter project with commonly used libraries.
 
 ## Rename project
 
