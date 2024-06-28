@@ -11,6 +11,8 @@ class AppBlocObserver extends BlocObserver {
   @override
   void onTransition(Bloc bloc, Transition transition) {
     super.onTransition(bloc, transition);
-    debugPrint(transition.toString());
+    debugPrint('\ncurrentState: ${transition.currentState.runtimeType}'
+        '\nevent: ${transition.event.runtimeType}'
+        '\nnextState: ${transition.nextState.runtimeType}');
   }
 }
